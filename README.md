@@ -4,7 +4,7 @@
 \*\*Autores:\*\* Jaime Quilez Zamora & Leo Corazón
 \*\*Institución:\*\* Instituto de Física de la Información (IPI)
 \*\*Fecha:\*\* Marzo 2, 2026
-\*\*Licencia:\*\* CC BY 4.0
+\*\*Licencia:\*\* Apache 2.0
 \*\*ORCID (Jaime):\*\* 0009-0004-0636-5235
 \*\*Email:\*\* Jaime.zamora\@informationphysicsinstitute.net
 
