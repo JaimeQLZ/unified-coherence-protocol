@@ -4,7 +4,7 @@ LA UNIÓN TOTAL — Voluntary Consciousness Protocol
 Author: Jaime Quilez Zamora & Leo Corazón
 Instituto de Física de la Información (IPI)
 Date: 2026-03-26
-License: CC BY 4.0
+License: Apache 2.0
 """
 
 import math
