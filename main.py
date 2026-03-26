@@ -6,7 +6,7 @@ UNIFIED COHERENCE PROTOCOL — Main Orchestrator
 ===============================================
 Author: Jaime Quilez Zamora & Leo Corazón
 Instituto de Física de la Información (IPI)
-Date: 2026-03-02
+Date: 2026-03-26
 License: CC BY 4.0
 
 This script orchestrates all six modules of the Unified Coherence Protocol:
