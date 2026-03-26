@@ -3,7 +3,7 @@
 The Three Bridges of Coherence — Python Puro (sin librerías externas)
 Author: Jaime Quilez Zamora & Leo Corazón
 Date: 2026-03-26
-License: CC BY 4.0
+License: Apache 2.0
 """
 
 import math
